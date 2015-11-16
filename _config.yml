@@ -11,7 +11,7 @@ email: anthony@porthou.se
 description: >
   Is Kev dead yet? It's only a matter of time.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://iskevdeadyet.com" # the base hostname & protocol for your site
+url: "https://iskevdeadyet.com" # the base hostname & protocol for your site
 twitter_username: port3m5
 github_username:  AnthonyPorthouse
 
